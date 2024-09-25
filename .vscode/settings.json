@@ -1,4 +1,4 @@
 {
-    "editor.formatOnPaste": true,
-    "editor.formatOnType": true
+    "files.autoSave": "afterDelay",
+    "editor.wordWrap": "on"
 }
